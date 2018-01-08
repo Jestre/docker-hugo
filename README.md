@@ -4,6 +4,7 @@ Based on the Dockerfile from [publysher](https://github.com/publysher/docker-hug
 While I use this primarily with the CI functionality of [GitLab](https://www.gitlab.com) to automatically rebuild and publish to [Amazon S3](https://www.amazonaws.com) my [Hugo](https://gohugo.io) site following every push, it can just as easily be used to host a Hugo site.
 
 ## Lastest Version
+2018-01-08: Hugo 0.32.3  
 2018-01-02: Hugo 0.32.1  
 2017-12-31: Hugo 0.32 
 2017-11-28: Hugo 0.31.1  
