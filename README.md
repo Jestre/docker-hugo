@@ -5,6 +5,10 @@ While I use this primarily with the CI functionality of [GitLab](https://www.git
 
 ## Lastest Version
 2018-03-07: Hugo 0.37  
+2018-02-05: Hugo 0.36  
+2018-01-29: Hugo 0.34  
+2018-01-16: Hugo 0.33  
+2018-01-08: Hugo 0.32.3  
 2018-01-02: Hugo 0.32.1  
 2017-12-31: Hugo 0.32 
 2017-11-28: Hugo 0.31.1  
