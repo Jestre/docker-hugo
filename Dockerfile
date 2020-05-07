@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:latest
 MAINTAINER badger@rampantbadger.com
 
 # Install pygments (for syntax highlighting)
